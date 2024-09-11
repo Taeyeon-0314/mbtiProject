@@ -175,9 +175,10 @@ mbtiProject
 ### 2️⃣ 테스트 저장시 저장이 안되는 에러 발생
 
 1. 테스트를 완료 하고 저장을 하려했는데 해당 오류 발생
-   ![테스트 저장 에러](https://github.com/user-attachments/assets/39d8b02a-1423-4298-803e-ff2589b7ab63)
 
-2. MBTI 테스트를 저장하거나 불러오거나 할때 /testResults를 사용하기에 baseURL에 /testResults 를 넣음
+![테스트 저장 에러](https://github.com/user-attachments/assets/39d8b02a-1423-4298-803e-ff2589b7ab63)
+
+3. MBTI 테스트를 저장하거나 불러오거나 할때 /testResults를 사용하기에 baseURL에 /testResults 를 넣음
 
 ```
 import axios from "axios";
