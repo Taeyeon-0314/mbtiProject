@@ -105,6 +105,7 @@ mbtiProject
 1. 아이디와 비밀번호를 입력하여 로그인을 할 수 있음
 2. 아이디 또는 비밀번호를 입력하지 않으면 입력할 수 있도록 알림 출력
 3. 로그인 완료시 메인페이지로 이동
+
 ![로그인](https://github.com/user-attachments/assets/ee68bab0-ca29-4a1e-99e6-41701fd40c2c)
 
 ---
